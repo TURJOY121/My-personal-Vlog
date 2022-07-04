@@ -1,0 +1,32 @@
+    ><style>
+        .author-name{
+            color: red;
+        }
+        
+        .blue{
+            background-color: rgb(3, 240, 165);
+            border: 5px dashed yellow;
+            margin-right: 40px;
+            border-radius: 10px;
+            width: 100%;
+            padding-left: 10px;
+            padding-right: 20px;
+        }
+
+        .font{
+            font-size: 16px;
+            height: 20%;
+            width: 80%;
+            right: 1px;
+            text-align: justify;
+
+        }
+
+        h1{
+            color: rgb(44, 42, 165);
+        }
+
+        .blog-tittle{
+            text-align: center;
+        }
+    </style
